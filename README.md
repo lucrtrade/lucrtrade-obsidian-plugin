@@ -1,0 +1,1 @@
+# lucrtrade-obsidian-plugin
